@@ -20,7 +20,7 @@ Examples:
   To decrypt a file named 'pole.txt', do: '$ python ende.py -d pole.txt'
 ```
 
-Using the '-d' option and with the python script and intering the given password decodes 'flag.txt.en' and outputs the flag.
+Using the '-d' option and with the python script and entering the given password decodes 'flag.txt.en' and outputs the flag.
 ```bash
 $ python ende.py -d flag.txt.en
 Please enter the password:dbd1bea4dbd1bea4dbd1bea4dbd1bea4
