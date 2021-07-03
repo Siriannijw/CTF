@@ -7,13 +7,13 @@ Can you invoke help flags for a tool or binary? [This program](https://mercury.p
 
 ## Solution
 Downloading and running the given binary resulted in the following:
-```bash
+```
 $ ./warm
 -bash: ./warm: Permission denied
 ```
 
 Adding the execution flag allowed the program to run and output the flag
-```bash
+```
 $ chmod +x warm
 $ ./warm
 $ ./warm

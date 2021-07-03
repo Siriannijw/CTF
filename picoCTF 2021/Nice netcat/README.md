@@ -7,7 +7,7 @@ There is a nice program that you can talk to by using this command in a shell: *
 
 ## Solution
 Running the given command results in a line-delineated list of numbers.
-```bash
+```
 $ nc mercury.picoctf.net 22902
 112 
 105 
@@ -16,7 +16,7 @@ $ nc mercury.picoctf.net 22902
 ```
 
 Pipe that through awk and convert the integer into a decimal gives the flag.
-```bash
+```
 $ nc mercury.picoctf.net 22902 | awk '{printf "%c", $0}'
 picoCTF{g00d_k1tty!_n1c3_k1tty!_d3dfd6df}
 ```
