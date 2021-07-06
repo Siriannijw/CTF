@@ -56,6 +56,7 @@ flag = ''
 for n in range(0, len(binary), 8):
 	byte = binary[n:n+8]
 	flag += chr(int(str(byte), 2))
+
 print(flag)
 ```
 
