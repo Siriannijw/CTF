@@ -1,0 +1,8 @@
+HTTP/1.1 302 FOUND
+Content-Type: text/html; charset=utf-8
+Content-Length: 209
+Location: http://mercury.picoctf.net:27177/
+Set-Cookie: name=-1; Path=/
+Vary: Cookie
+Set-Cookie: session=eyJfZmxhc2hlcyI6W3siIHQiOlsiZGFuZ2VyIiwiVGhhdCBkb2Vzbid0IGFwcGVhciB0byBiZSBhIHZhbGlkIGNvb2tpZS4iXX1dfQ.YRBVoQ.YD1OnoABDZ6ujI0ky7YbRAS6LnM; HttpOnly; Path=/
+

@@ -1,0 +1,6 @@
+HTTP/1.1 302 FOUND
+Content-Type: text/html; charset=utf-8
+Content-Length: 219
+Location: http://mercury.picoctf.net:27177/check
+Set-Cookie: name=0; Path=/
+
